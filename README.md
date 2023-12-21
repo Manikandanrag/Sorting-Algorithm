@@ -39,24 +39,18 @@ value=insertion_sort(list_of_nums)
 print(value)
 ```
 i)	#Selection Sort
-```
+
 <img width="559" alt="1" src="https://github.com/Manikandanrag/Sorting-Algorithm/assets/138849491/86a995a0-da24-474d-89fd-73ff1bc982e2">
 
 
 
 
-
-```
 ii)	#Insertion Sort
-```
 
 <img width="533" alt="2" src="https://github.com/Manikandanrag/Sorting-Algorithm/assets/138849491/d4943c9e-16fe-48b0-9fb2-307416150ac1">
 
 
 
-
-
-```
 
 ## Output:
 
